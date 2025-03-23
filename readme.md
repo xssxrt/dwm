@@ -1,7 +1,6 @@
 # dwm
 
 ## Future
-- switch to ghostty when general beta is open
 - more patching?
     - attachbelow and the clones because the default behavior is cringe
     - see what other people are using
@@ -21,7 +20,7 @@
 ## Notes
 - see Nix configs for details
 - using:
-    - kitty
+    - ghostty
     - picom
     - dmenu
     - feh
